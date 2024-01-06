@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704552839900,
+      "tag": "0000_demonic_carnage",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704556507167,
+      "tag": "0001_nebulous_corsair",
+      "breakpoints": true
+    }
+  ]
+}

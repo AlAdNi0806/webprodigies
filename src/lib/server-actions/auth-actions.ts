@@ -1,4 +1,4 @@
-"use client"
+"use server"
 
 import { z } from "zod";
 import { createRouteHandlerClient } from '@supabase/auth-helpers-nextjs';
@@ -14,5 +14,5 @@ export async function actionLoginUser({
         email,
         password,
     });
-    return response;
+    return response
 }

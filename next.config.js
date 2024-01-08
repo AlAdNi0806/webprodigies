@@ -6,9 +6,9 @@ const nextConfig = {
         unoptimized: true,
     },
     // ⥥ Delete the following lines later before deployment ⥥
-    experimental: {
-        serverActions: true,
-    },
+    // experimental: {
+    //     serverActions: true,
+    // },
     // ⥣ Delete the upper lines later before deployment ⥣
 };
 

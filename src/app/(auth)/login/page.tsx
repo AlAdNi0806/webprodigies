@@ -102,7 +102,7 @@ const LoginPage = () => {
                     {!isLoading ? "Login" : <Loader />}
                 </Button>
                 <span className='self-container'>
-                    Don't have an account?{' '}
+                    Don&apos;t have an account?{' '}
                     <Link 
                         href="signup"
                         className='text-primary'

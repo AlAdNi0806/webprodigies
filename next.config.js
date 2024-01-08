@@ -2,13 +2,13 @@
 const nextConfig = {
     output: 'export',
     distDir: 'dito',
-    // images: {
-    //     unoptimized: true,
-    // },
+    images: {
+        unoptimized: true,
+    },
     // ⥥ Delete the following lines later before deployment ⥥
-    // experimental: {
-    //     serverActions: true,
-    // },
+    experimental: {
+        serverActions: true,
+    },
     // ⥣ Delete the upper lines later before deployment ⥣
 };
 
